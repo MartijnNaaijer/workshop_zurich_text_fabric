@@ -1,4 +1,4 @@
-### How to install Text-Fabric:
+### How to install Text-Fabric \
 Make a Python/Anaconda environment.
 Install TF:
 ```pip install text-fabric```
@@ -6,23 +6,25 @@ Install TF:
 Open TF Browser with the BHSA dataset:
 ```tf etcbc/bhsa```
 
-### BHSA documentation
+### BHSA dataset \
 https://github.com/ETCBC/bhsa
 
+### BHSA feature documentation \
+https://etcbc.github.io/bhsa
 
-### The CACCHT project (other datasets):
+### The CACCHT project (other datasets: DSS, SP, Syriac, LXX) \
 https://github.com/caccht
 
 
-### Search documentation:
+### Search documentation \
 https://annotation.github.io/text-fabric/tf/about/searchusage.html
 
-### Search Tutorials:
+### Search Tutorials \
 https://github.com/ETCBC/bhsa/blob/master/tutorial/search.ipynb
 https://github.com/ETCBC/bhsa/blob/master/tutorial/searchAdvanced.ipynb
 
 
-# Shebanq
+# Shebanq \
 For inspection of the text, features and lexicon of the Hebrew Bible:
 
 https://shebanq.etcbc.vu.nl
