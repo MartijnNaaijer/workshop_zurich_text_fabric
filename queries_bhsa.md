@@ -15,7 +15,6 @@ https://github.com/ETCBC/bhsa/blob/master/tutorial/searchAdvanced.ipynb
 
 
 
-
 Example queries:
 
 word
@@ -48,7 +47,7 @@ clause
 
 
 clause
-  word g_cons=HLKTJ  # Note ketiv qere in 2Kings 4:23 and Jeremiah 31:21
+  word g_cons=HLKTJ  # Note ketiv/qere in 2Kings 4:23 and Jeremiah 31:21
 
 
 clause
