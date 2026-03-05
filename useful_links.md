@@ -6,11 +6,14 @@ Install TF:
 Open TF Browser with the BHSA dataset:
 ```tf etcbc/bhsa```
 
+
 ### BHSA dataset  
 https://github.com/ETCBC/bhsa
 
+
 ### BHSA feature documentation  
 https://etcbc.github.io/bhsa
+
 
 ### The CACCHT project (other datasets: DSS, SP, Syriac, LXX)  
 https://github.com/caccht
@@ -32,3 +35,11 @@ https://shebanq.etcbc.vu.nl
 OR
 
 https://shebanq.ancient-data.org
+
+
+### Text-Fabric documentation
+https://annotation.github.io/text-fabric/tf
+
+
+### Context-Fabric documentation
+https://context-fabric.ai

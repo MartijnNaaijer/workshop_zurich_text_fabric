@@ -15,15 +15,18 @@ https://github.com/ETCBC/bhsa/blob/master/tutorial/searchAdvanced.ipynb
 
 
 
-Example queries:
+### Example queries:
 
 word
+
+
+word lex=MCH=/
 
 
 word lex=MCH/
 
 
-word lex=MCH=/
+word lex_utf8=משׁה # Look out, no disambiguation!
 
 
 clause
@@ -50,8 +53,7 @@ clause
   word g_cons=HLKTJ  # Note ketiv/qere in 2Kings 4:23 and Jeremiah 31:21
 
 
-clause
-  word g_cons~^B..$
+word g_cons~^B..$
 
 
 clause
@@ -60,6 +62,9 @@ clause
 
 clause
   word sp#verb
+
+clause
+  word sp=verb pdp=subs
 
 
 clause
