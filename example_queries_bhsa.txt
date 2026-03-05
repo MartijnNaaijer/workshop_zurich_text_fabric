@@ -173,9 +173,21 @@ clause
   /-/
 /-/
 
+
 clause
 /where/
   phrase
 /have/
-     function#Objc
+  /without/
+     function=Objc|Subj
+  /-/
 /-/
+
+
+clause
+/where/
+  phrase
+/have/
+  function#Objc
+/-/
+  phrase function=Subj
