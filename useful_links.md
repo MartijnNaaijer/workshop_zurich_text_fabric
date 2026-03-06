@@ -43,3 +43,7 @@ https://annotation.github.io/text-fabric/tf
 
 ### Context-Fabric documentation
 https://context-fabric.ai
+
+
+### Notebooks with Search by Oliver Glanz
+https://github.com/oliverglanz/Text-Fabric/tree/master/TF-workshop
