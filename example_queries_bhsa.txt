@@ -84,6 +84,12 @@ clause
 
 
 clause
+  % Search for verbs starting with >, except 2 verbs
+  w1:word lex~^>..\[$ 
+  w1 lex#>MR[|>KL[
+
+
+clause
   phrase typ=NP
 
 
