@@ -72,7 +72,15 @@ clause
 
 
 clause
-  word language=Hebrew 
+  word language=Hebrew
+
+# perfect fem. 3rd ps sg
+clause
+  word vbe=H
+
+# cohortative/adhortative
+clause
+  word vbe=H=
 
 
 clause
@@ -139,6 +147,13 @@ clause
 clause
   word lex=MCH=/
   :2> word sp=verb # try also :3> word sp=verb
+
+
+# clauses with an infinitive absolute and a verb with the same lexeme, but another verb form.
+clause
+  w1:word vt=infa
+  w2:word vt#infa
+  w1 .lex. w2
 
 
 book book=Exodus
